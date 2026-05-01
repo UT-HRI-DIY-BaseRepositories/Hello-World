@@ -1,2 +1,2 @@
 # Hello-World
-Base repository for the 1st app
+This is the base repository for Student Guide #1
